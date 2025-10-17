@@ -2,7 +2,7 @@
 
 ## Description
 Auto-generated app based on brief:
-Publish a single-page site that fetches data.csv from attachments, sums its sales column, sets title to 'Sales Summary', displays total in #total-sales, and loads Bootstrap 5 from jsdelivr.
+Add a Bootstrap table #product-sales that lists each product with its total sales and keeps #total-sales accurate after render. Also, introduce a currency select #currency-picker that converts the computed total using rates.json from attachments and mirrors the active currency inside #total-currency.
 
 ## Usage
 Open index.html or visit GitHub Pages URL.
